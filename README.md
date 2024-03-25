@@ -14,10 +14,8 @@
 	<li>🚀 &nbsp; I love exploring new technologies and building cool stuff;</li>
  	<li>📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.</li>
   	</ul>
-</details>
-* <details>
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+	</details>
+* <details><summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Win11 v.23H2</li>
 	      <li><b>Laptop: </b> PC Specialist Defiance Pro 17 M1</li>
