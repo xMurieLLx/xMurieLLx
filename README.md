@@ -8,6 +8,14 @@
 * 🧠  I'm learning Java with Spring + SpringBoot, Kubernetes and Golang
 * 🖥️  See my portfolio at [My digital CV](http://garabine-cv.netlify.app)
 * <details>
+	<ul>
+	<li>🛠 &nbsp; For Front-End I’m currently working with HTML, CSS+SCSS, TailwindCss, JavaScript (Angular and React);</li>
+ 	<li>💻 &nbsp; For Back-End: PHP, Java (Spring + SpringBoot);</li>
+	<li>🚀 &nbsp; I love exploring new technologies and building cool stuff;</li>
+ 	<li>📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.</li>
+  	</ul>
+</details>
+* <details>
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
@@ -23,7 +31,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=✉️+You+can+contact+Me)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=✉️+You+can+contact+Me+📫+&nbsp;)](https://git.io/typing-svg)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muriell.htc@gmail.com?subject=[GitHub])
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitri-garabine-41284510b/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/xMurieLLx)
