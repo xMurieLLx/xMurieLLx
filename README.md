@@ -5,9 +5,8 @@
 ---------------------------------------------------------------------------------------
 
 * 🌍  I'm based in France
-* 🖥️  See my portfolio at [My digital CV](http://garabine-cv.netlify.app)
-* ✉️  You can contact me at [muriell.htc@gmail.com](mailto:muriell.htc@gmail.com)
 * 🧠  I'm learning Java with Spring + SpringBoot, Kubernetes and Golang
+* 🖥️  See my portfolio at [My digital CV](http://garabine-cv.netlify.app)
 * <details>
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
