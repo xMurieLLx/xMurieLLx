@@ -24,7 +24,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Contact+Me)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=✉️+You+can+contact+Me)](https://git.io/typing-svg)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muriell.htc@gmail.com?subject=[GitHub])
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitri-garabine-41284510b/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/xMurieLLx)
