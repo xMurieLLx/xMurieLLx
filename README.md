@@ -1,9 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+👋+My+name+is+Dmitri+Garabine)](https://git.io/typing-svg)
-========================================================================================
-
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-Stack+Web+Developper+student)](https://git.io/typing-svg)
----------------------------------------------------------------------------------------
-
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+👋+My+name+is+Dmitri+Garabine)](https://git.io/typing-svg)<br/>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Full-Stack+Web+Developper+student)](https://git.io/typing-svg)<br/>
 * 🌍  I'm based in France
 * 🧠  I'm learning Java with Spring + SpringBoot, Kubernetes and Golang
 * 🖥️  See my portfolio at [My digital CV](http://garabine-cv.netlify.app)
