@@ -7,7 +7,7 @@
 * 🌍  I'm based in France
 * 🧠  I'm learning Java with Spring + SpringBoot, Kubernetes and Golang
 * 🖥️  See my portfolio at [My digital CV](http://garabine-cv.netlify.app)
-* <details>
+* <details><summary><b>⚡ Information </b></summary>
 	<ul>
 	<li>🛠 &nbsp; For Front-End I’m currently working with HTML, CSS+SCSS, TailwindCss, JavaScript (Angular and React);</li>
  	<li>💻 &nbsp; For Back-End: PHP, Java (Spring + SpringBoot);</li>
