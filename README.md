@@ -8,6 +8,19 @@
 * 🖥️  See my portfolio at [My digital CV](http://garabine-cv.netlify.app)
 * ✉️  You can contact me at [muriell.htc@gmail.com](mailto:muriell.htc@gmail.com)
 * 🧠  I'm learning Java with Spring + SpringBoot, Kubernetes and Golang
+* <details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Win11 v.23H2</li>
+	      <li><b>Laptop: </b> PC Specialist Defiance Pro 17 M1</li>
+  	    <li><b>Browser: </b> Chrome</li>
+	    <li><b>Terminal: </b> Terminal Windows: Kali + Oh My Posh</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+ 	    <li><b>Other Tools:</b> Postman, Notion</li>
+	    <li><b>To Stay Updated:</b> Telegram</li>
+	</ul>
+</details>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
 
