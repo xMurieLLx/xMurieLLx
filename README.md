@@ -17,7 +17,7 @@
 	      <li><b>Laptop: </b> PC Specialist Defiance Pro 17 M1</li>
   	    <li><b>Browser: </b> Chrome</li>
 	    <li><b>Terminal: </b> Terminal Windows: Kali + Oh My Posh</li>
-	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+	    <li><b>Code Editor:</b> VSCode and IntelliJIDEA</li>
  	    <li><b>Other Tools:</b> Postman, Notion</li>
 	    <li><b>To Stay Updated:</b> Telegram</li>
 	</ul>
