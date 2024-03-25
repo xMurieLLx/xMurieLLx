@@ -27,7 +27,7 @@
 	</ul>
 </details>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=your-github-xMurieLLx&style=for-the-badge)
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=✉️+You+can+contact+Me+📫+&nbsp;)](https://git.io/typing-svg)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muriell.htc@gmail.com?subject=[GitHub])
