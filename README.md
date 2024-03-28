@@ -1,5 +1,5 @@
 
-![bg_image](https://github.com/xMurieLLx/xMurieLLx/blob/main/bg-city-cyberpunk.jpg)
+![bg_image](https://github.com/xMurieLLx/xMurieLLx/blob/main/584054_movie-ezgif.com-optimize%20(compressed).gif)
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=1500&pause=250&center=true&vCenter=true&multiline=true&random=false&width=625&height=124&lines=Hi+there+!+;My+name+is+;Dmitri+Garabine;I'm+a+Full-Stack+Web+Developer)](https://git.io/typing-svg) <br/>
 * 🌍  I'm based in France
