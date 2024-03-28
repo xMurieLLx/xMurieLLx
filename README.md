@@ -4,7 +4,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=1500&pause=250&center=true&vCenter=true&multiline=true&random=false&width=625&height=124&lines=Hi+there+!+;My+name+is+;Dmitri+Garabine;I'm+a+Full-Stack+Web+Developer)](https://git.io/typing-svg) <br/>
 * 🌍  I'm based in France
 * 🧠  I'm learning Java with Spring + SpringBoot, Kubernetes and Golang
-* 🖥️  See my portfolio at [My digital CV](http://garabine-cv.netlify.app)
+* 🖥️  See my portfolio at [My digital CV](http://garabine-cv.netlify.app)[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoton&size=14&duration=1500&pause=250&vCenter=true&random=false&width=435&lines=Building+...;Raparation+...;Constructing+...)](https://git.io/typing-svg)
 * <details><summary><b>⚡ Information </b></summary><br/>
 	<ul>
 	<li>🛠 &nbsp; For Front-End I’m currently working with HTML, CSS+SCSS, TailwindCss, JavaScript (Angular and React);</li>
