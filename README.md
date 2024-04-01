@@ -29,7 +29,7 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=1500&pause=250&center=true&vCenter=true&multiline=true&random=false&width=625&height=40&lines=%E2%9C%89%EF%B8%8F+You+can+contact+Me+%F0%9F%93%AB)](https://git.io/typing-svg)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muriell.htc@gmail.com?subject=[GitHub])
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitri-garabine-41284510b/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmitri-garabine)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/xMurieLLx)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xmuriellx)
 
