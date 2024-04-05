@@ -38,6 +38,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xMurieLLx&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xMurieLLx&show_icons=true&theme=tokyonight&ru)
 
+![bg_image](https://github.com/xMurieLLx/xMurieLLx/blob/main/github-snake.svg)
+
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=1500&pause=250&center=true&vCenter=true&multiline=true&random=false&width=625&height=40&lines=SKILLS)](https://git.io/typing-svg)
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&duration=1500&pause=250&vCenter=true&multiline=true&random=false&width=625&height=40&lines=Language+Front-End)](https://git.io/typing-svg)
