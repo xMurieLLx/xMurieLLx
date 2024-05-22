@@ -7,7 +7,7 @@
 * 🖥️  See my portfolio at [My digital CV] ☁️[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=12&duration=1500&pause=250&vCenter=true&random=false&width=200&height=20&lines=Building+...;Reparation+...;Constructing+...;Deploying+...)](https://git.io/typing-svg)
 * <details><summary><b>⚡ Information </b></summary><br/>
 	<ul>
-	<li>🛠 &nbsp; For Front-End I’m currently working with HTML, CSS+SCSS, TailwindCss, JavaScript (Angular and React);</li>
+	<li>🛠 &nbsp; For Front-End I’m currently working with HTML, CSS+SCSS, TailwindCss, JavaScript (Angular and React + Vite);</li>
  	<li>💻 &nbsp; For Back-End: PHP, Java (Spring + SpringBoot);</li>
 	<li>🚀 &nbsp; I love exploring new technologies and building cool stuff;</li>
  	<li>📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.</li>
